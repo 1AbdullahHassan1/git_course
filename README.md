@@ -2,5 +2,4 @@
 git and githup elzero course
 
 ## project notes
-'''''
-'''''
+**stay focus**
